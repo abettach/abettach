@@ -14,6 +14,8 @@
 [<img align="left" alt="abettach | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abettach | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
+[![Twitter Follow](https://img.shields.io/twitter/follow/achraf_bettachi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/abettach&screen_name=achraf_bettachi)
+
 <br />
 <br />
 
@@ -30,4 +32,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abettach&show_icons=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abettach&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
