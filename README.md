@@ -16,7 +16,6 @@
 [<img align="left" alt="abettach | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="abettach | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/achraf_bettachi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/abettach&screen_name=achraf_bettachi)
 <br />
 
 ---
@@ -30,6 +29,8 @@
 [youtube]: https://www.youtube.com/channel/UClJtWrAylYIzrdXetrv461w
 [instagram]: https://www.instagram.com/achraf_bettachi/
 [linkedin]: https://www.linkedin.com/in/achraf-bettachi-164593218/
+
+[![Twitter Follow](https://img.shields.io/twitter/follow/achraf_bettachi?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/abettach&screen_name=achraf_bettachi)
 
 
 
