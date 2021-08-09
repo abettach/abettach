@@ -5,7 +5,6 @@
 
 ## I'm a Student, Developer !!
 
-- 🌱 I’m currently learning everything 🤣
 - 👨‍🎓 I'm currently student at 1337
 - 💬 Ask me about anything
 
