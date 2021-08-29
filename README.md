@@ -3,11 +3,6 @@
 
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&login=abettach)](https://github.com/mohouyizme/1337-readme)
 
-## I'm a Student, Developer !!
-
-- 👨‍🎓 I'm currently student at 1337
-- 💬 Ask me about anything
-
 ### Connect with me:
 
 [<img align="left" alt="abettach | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
