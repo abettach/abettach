@@ -21,7 +21,9 @@
 | 9   | [cub3d](../../../Cub3d)                    | ✅     |   | 20  | [ft_containers](../../../ft_containers) | ✅     |   |     |                                |         |
 | 10  | [CPP Module 00](../../../CPP)              | ✅     |   | 21  | ft_irc        | 🔒     |   |     |                                |         |
 <br />
+
 ## 📊 My Stats :
+
 [![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=abettach&hide=contribs,prs&show_icons=true&theme=dark)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abettach&theme=dark&background=000000)](https://git.io/streak-stats)
