@@ -16,8 +16,8 @@
 | 2   | [Born2beroot](../../../born2beroot)        | 🔒     |   | 12  | [CPP Module 02](../../../CPP) | ✅     |   | 23  | Inception                      | 🔒      |
 | 3   | [ft_printf](../../../ft_printf)            | ✅     |   | 13  | [CPP Module 03](../../../CPP) | ✅     |   | 24  | [ft_transcendence](../../../ft_transandance)               | 🛠️      |
 | 4   | [get_next_line](../../../get_next_line)    | ✅     |   | 14  | [CPP Module 04](../../../CPP) | ✅     |   |     |                                |         |
-| 5   | [so_long](../../../so_long)                | ✅     |   | 15  | [CPP Module 05](../../../CPP) | ✅     |   |     |                                |         |
-| 5   | [minitalk](../../../minitalk)              | ✅     |   | 16  | [CPP Module 06](../../../CPP) | ✅     |   |     |                                |         |
+| 5   | [so_long](../../../so_long)                | 🔒     |   | 15  | [CPP Module 05](../../../CPP) | ✅     |   |     |                                |         |
+| 5   | [minitalk](../../../minitalk)              | 🔒     |   | 16  | [CPP Module 06](../../../CPP) | ✅     |   |     |                                |         |
 | 6   | [push_swap](../../../push_swap)            | ✅     |   | 17  | [CPP Module 07](../../../CPP) | ✅     |   |     |                                |         |
 | 7   | [minishell](../../../minishell)            | ✅     |   | 18  | [CPP Module 08](../../../CPP) | ✅     |   |     |                                |         |
 | 8   | [philosophers](../../../philosophers)      | ✅     |   | 19  | [NetPractice](../../../NetPractice)| ✅|   |     |                                |         |
