@@ -1,14 +1,10 @@
 
 ### Hi there, I'm Achraf 👋
-
 <br />
-
 ### :link: Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Achraf_Bettachi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-bettachi-164593218/)
-
 <br />
-
 ## 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
@@ -23,9 +19,7 @@
 | 8   | [philosophers](../../../philosophers)      | ✅     |   | 19  | [NetPractice](../../../NetPractice)| ✅|   |     |                                |         |
 | 9   | [cub3d](../../../Cub3d)                    | ✅     |   | 20  | [ft_containers](../../../ft_containers) | ✅     |   |     |                                |         |
 | 10  | [CPP Module 00](../../../CPP)              | ✅     |   | 21  | ft_irc        | 🔒     |   |     |                                |         |
-
 <br />
-
 ## 📊 My Stats :
 ![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=abettach&hide=contribs,prs&show_icons=true&theme=dark)
 
@@ -33,7 +27,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abettach&layout=compact&theme=dark)](https://github.com/garadraw/github-readme-stats)  
 <br />
-
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -50,7 +43,6 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" title="NextJs" alt="NextJs" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
 <div>
-
 <br />
 
 ### :link: Connect with me:
