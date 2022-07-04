@@ -1,6 +1,7 @@
 
 ### Hi there, I'm Achraf 👋
 <br />
+
 ### :link: Connect with me:
 
 [![Linkedin Badge](https://img.shields.io/badge/-Achraf_Bettachi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-bettachi-164593218/)
@@ -27,6 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abettach&layout=compact&theme=dark)](https://github.com/garadraw/github-readme-stats)  
 <br />
+
 ## :hammer_and_wrench: Languages and Tools :
 
 <div>
