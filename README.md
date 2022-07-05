@@ -24,7 +24,7 @@
 
 ## 📊 My Stats :
 
-[![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=abettach&hide=contribs,prs&show_icons=true&theme=dark)(https://github.com/abettach)
+[![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=abettach&hide=contribs,prs&show_icons=true&theme=dark)](https://github.com/abettach)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abettach&theme=dark&background=000000)](https://github.com/abettach)
 
