@@ -24,11 +24,11 @@
 
 ## 📊 My Stats :
 
-[![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=abettach&hide=contribs,prs&show_icons=true&theme=dark)
+[![garadraw's GitHub stats](https://github-readme-stats.vercel.app/api?username=abettachg&hide=contribs,prs&show_icons=true&theme=dark)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abettach&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abettachg&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abettach&layout=compact&theme=dark)](https://github.com/garadraw/github-readme-stats)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abettachg&layout=compact&theme=dark)](https://github.com/garadraw/github-readme-stats)  
 <br />
 
 ## :hammer_and_wrench: Languages and Tools :
