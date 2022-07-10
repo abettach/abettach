@@ -1,6 +1,7 @@
 
 ### Hi there, I'm Achraf 👋
 <br />
+[![abettach 42 stats](https://badge.mediaplus.ma/Darkgray/abettach)](https://github.com/abettach)
 
 ### :link: Connect with me:
 
