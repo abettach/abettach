@@ -1,7 +1,7 @@
 
 ### Hi there, I'm Achraf 👋
 <br />
-[![<username>'s 42 stats](https://badge.mediaplus.ma/darkblue/abettach)](https://github.com/oakoudad/badge42)
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/colorfulwaves/abettach" alt="abettach's 42 stats" /></a>
 
 ### :link: Connect with me:
 
