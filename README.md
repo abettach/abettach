@@ -7,7 +7,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Achraf_Bettachi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-bettachi-164593218/)
 <br />
-<details>
  <br />
 📚 42 Curriculum Progress
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
