@@ -9,7 +9,6 @@
 <br />
 <details>
 <summary>## 📚 42 Curriculum Progress</summary>
- <pre>
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft)                    | ✅     |   | 11  | [CPP Module 01](../../../CPP) | ✅     |   | 22  | [webserv](../../../webserv)    | ✅      |
@@ -23,7 +22,6 @@
 | 8   | [philosophers](../../../philosophers)      | ✅     |   | 19  | [NetPractice](../../../NetPractice)| ✅|   |     |                                |         |
 | 9   | [cub3d](../../../Cub3d)                    | ✅     |   | 20  | [ft_containers](../../../ft_containers) | ✅     |   |     |                                |         |
 | 10  | [CPP Module 00](../../../CPP)              | ✅     |   | 21  | ft_irc        | 🔒     |   |     |                                |         |
-</pre>
 </details>
 
 <br />
