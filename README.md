@@ -23,7 +23,6 @@
 | 8   | [philosophers](../../../philosophers)      | ✅     |   | 19  | [NetPractice](../../../NetPractice)| ✅|   |     |                                |         |
 | 9   | [cub3d](../../../Cub3d)                    | ✅     |   | 20  | [ft_containers](../../../ft_containers) | ✅     |   |     |                                |         |
 | 10  | [CPP Module 00](../../../CPP)              | ✅     |   | 21  | ft_irc        | 🔒     |   |     |                                |         |
-</details>
 
 <br />
 
