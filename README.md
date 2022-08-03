@@ -8,7 +8,8 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Achraf_Bettachi-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/achraf-bettachi-164593218/)
 <br />
 <details>
-<summary>## 📚 42 Curriculum Progress</summary>
+ <br />
+<summary>📚 42 Curriculum Progress</summary>
 | No  | Project                                    | Status |   | No  | Project       | Status |   | No  | Project                        | Status |
 | :-: | :----------------------------------------- | :----: | - | :-: | :------------ | :----: | - | :-: | :----------------------------- | :----: |
 | 1   | [Libft](../../../libft)                    | ✅     |   | 11  | [CPP Module 01](../../../CPP) | ✅     |   | 22  | [webserv](../../../webserv)    | ✅      |
